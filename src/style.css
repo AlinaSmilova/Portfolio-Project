@@ -1,8 +1,18 @@
 body {
   background-color: antiquewhite;
   text-align: center;
+  line-height: 2;
+  color: black;
 }
 
 h2 {
+  font-weight: bold;
+}
+h2 {
   font-weight: lighter;
+}
+.hero {
+  background-color: #f9f7fe;
+  box-sizing: border-box;
+  line-height: 100px;
 }
