@@ -1,5 +1,5 @@
 body {
-  background-color: antiquewhite;
+  background-color: rgb(247, 243, 237);
   text-align: center;
   line-height: 2;
   color: black;
@@ -9,6 +9,10 @@ h2 {
   font-weight: bold;
 }
 h2 {
+  font-weight: lighter;
+}
+div {
+  border-radius: 3px;
   font-weight: lighter;
 }
 .hero {
