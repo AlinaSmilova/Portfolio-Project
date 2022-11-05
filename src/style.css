@@ -17,8 +17,14 @@ div {
   font-weight: lighter;
   border-color: antiquewhite;
 }
+img {
+  border-radius: 3px;
+}
 .hero {
   background-color: #f9f7fe;
   box-sizing: border-box;
   line-height: 100px;
+}
+.about-section-content{
+  background-color: #f9f7fe;;
 }
